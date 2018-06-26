@@ -1,0 +1,9 @@
+package demo.a1;
+
+import java.lang.Number;
+
+rule "ashish_a"
+	dialect "mvel"
+	when
+	then
+end
