@@ -1,0 +1,9 @@
+package demo.kie_workbench;
+
+import java.lang.Number;
+
+rule "file1"
+	dialect "mvel"
+	when
+	then
+end
