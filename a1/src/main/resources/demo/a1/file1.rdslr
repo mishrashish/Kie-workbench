@@ -1,0 +1,9 @@
+package demo.a1;
+
+import java.lang.Number;
+
+rule "file1"
+	dialect "mvel"
+	when
+	then
+end
